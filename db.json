@@ -1,0 +1,26 @@
+[
+    {
+      src: '../../assets/img/nha-trang.jpg',
+      thumb: '../../assets/img/nha-trang.jpg'
+    },
+    {
+      src: '../../assets/img/ha-noi.jpg',
+      thumb: '../../assets/img/ha-noi.jpg'
+    },
+    {
+      src: '../../assets/img/da-nang.jpg',
+      thumb: '../../assets/img/da-nang.jpg'
+    },
+    {
+      src: '../../assets/img/ho-chi-minh.jpg',
+      thumb: '../../assets/img/ho-chi-minh.jpg'
+    },
+    {
+      src: '../../assets/img/hotel-1.jpg',
+      thumb: '../../assets/img/hotel-1.jpg'
+    },
+    {
+      src: '../../assets/img/hotel-2.jpg',
+      thumb: '../../assets/img/hotel-1.jpg'
+    }
+]
